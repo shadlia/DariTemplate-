@@ -15,7 +15,7 @@
 - **User-friendly Interface:** Dari offers an intuitive and visually appealing user interface to enhance the user experience.
 - 
 ## Live Demo
-You can view a live demo of the Dari website template [here]([https://your-demo-url.com](https://shadlia.github.io/DariTemplate-/)).
+You can view a live demo of the Dari website template [here](https://your-demo-url.com](https://shadlia.github.io/DariTemplate-/).
 
 ## Installation
 
